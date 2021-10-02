@@ -9,8 +9,6 @@ eureka:
     prefer-ip-address: true
     instance-id: autodeliver
 spring:
-  profiles:
-    dev
   application:
     name: service-autodeliver
   cloud:
