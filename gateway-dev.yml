@@ -1,0 +1,3 @@
+gateway:
+  minutes: 1
+  requestCount: 20
